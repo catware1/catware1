@@ -1,1 +1,1 @@
-<h1>welcum</h1>
+<script>alert("компьютир заблакирована");</script>
